@@ -1,0 +1,14 @@
+{
+  "api_base": "https://lj.talangs.cn/api.php",
+  "register_url": "https://lj.talangs.cn/register.php",
+  "token": "",
+  "username": "",
+  "relay_id": 0,
+  "mode": "auto",
+  "last_notice": "cb3a6c4e899a18be108e5b287b391491f08dc858d5d258ebd26206d54b27fb04",
+  "dark_mode": true,
+  "glass_mode": false,
+  "theme_style": "dark",
+  "accent_color": "#3B82F6",
+  "background_color": ""
+}
